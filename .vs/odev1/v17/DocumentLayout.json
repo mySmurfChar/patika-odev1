@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\i\u015Fler\\patika101\\odev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4FBDA7-F916-4D71-9464-E34B91C971EE}|Algoritmalar\\Algoritmalar.csproj|c:\\i\u015Fler\\patika101\\odev1\\algoritmalar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4FBDA7-F916-4D71-9464-E34B91C971EE}|Algoritmalar\\Algoritmalar.csproj|solutionrelative:algoritmalar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\i\u015Fler\\patika101\\odev1\\Algoritmalar\\Program.cs",
+              "RelativeDocumentMoniker": "Algoritmalar\\Program.cs",
+              "ToolTip": "C:\\i\u015Fler\\patika101\\odev1\\Algoritmalar\\Program.cs",
+              "RelativeToolTip": "Algoritmalar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:34:21.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

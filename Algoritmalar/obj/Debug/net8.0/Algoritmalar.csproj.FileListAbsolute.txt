@@ -1,0 +1,14 @@
+C:\işler\patika101\odev1\Algoritmalar\bin\Debug\net8.0\Algoritmalar.exe
+C:\işler\patika101\odev1\Algoritmalar\bin\Debug\net8.0\Algoritmalar.deps.json
+C:\işler\patika101\odev1\Algoritmalar\bin\Debug\net8.0\Algoritmalar.runtimeconfig.json
+C:\işler\patika101\odev1\Algoritmalar\bin\Debug\net8.0\Algoritmalar.dll
+C:\işler\patika101\odev1\Algoritmalar\bin\Debug\net8.0\Algoritmalar.pdb
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.AssemblyInfoInputs.cache
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.AssemblyInfo.cs
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.csproj.CoreCompileInputs.cache
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.dll
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\refint\Algoritmalar.dll
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.pdb
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\Algoritmalar.genruntimeconfig.cache
+C:\işler\patika101\odev1\Algoritmalar\obj\Debug\net8.0\ref\Algoritmalar.dll
